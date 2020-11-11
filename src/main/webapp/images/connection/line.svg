@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_arrows</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="17" height="17"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01" transform="translate(-250.000000, -12.000000)">
+            <g id="T">
+                <g id="编组-5" transform="translate(13.000000, 11.000000)">
+                    <g id="编组-4" transform="translate(237.000000, 1.000000)">
+                        <g id="ic_arrows">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="蒙版"></g>
+                            <polygon id="路径-3" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(8.250000, 8.000000) rotate(-315.000000) translate(-8.250000, -8.000000) " points="2.06281566 13.4800776 12.7297258 2.81281566 8.43718434 2.81281566 8.43718434 1.81281566 14.4371843 1.81281566 14.4371843 7.81281566 13.4371843 7.81281566 13.4371843 3.52012157 2.76992245 14.1871843"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

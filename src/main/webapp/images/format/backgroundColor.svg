@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8</title>
+    <defs>
+        <path d="M16,0 L16,16 L15.175,16 L9.272,1 L7.182,1 L1.279,16 L0,16 L0,0 L16,0 Z M11.824,12.308 L13.227,16 L3.205,16 L4.608,12.308 L11.824,12.308 Z M8.282,2.936 L11.252,10.79 L5.18,10.79 L8.194,2.936 L8.282,2.936 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-159.000000, -242.000000)">
+            <g id="编组-4" transform="translate(159.000000, 134.000000)">
+                <g id="8" transform="translate(0.000000, 108.000000)">
+                    <g id="Shape">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="形状结合" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

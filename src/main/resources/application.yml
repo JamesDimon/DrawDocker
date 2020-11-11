@@ -1,0 +1,5 @@
+server:
+  port: 8080
+k8s_master: ""
+k8s_token: ""
+k8s_namespace: ""

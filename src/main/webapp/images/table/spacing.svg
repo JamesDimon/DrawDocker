@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>12</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-195.000000, -206.000000)">
+            <g id="编组-3" transform="translate(195.000000, 134.000000)">
+                <g id="12" transform="translate(0.000000, 72.000000)">
+                    <g id="Group">
+                        <polygon id="Shape" points="0 0 16 0 16 16 0 16"></polygon>
+                        <path d="M16,0 L12,0 L12,1.5 L4,1.5 L4,0 L0,0 L0,4 L1.5,4 L1.45454545,12 L0,12 L0,16 L4,16 L4,14.5 L12,14.5454545 L12,16 L16,16 L16,12 L14.5454545,12 L14.5,4 L16,4 L16,0 Z M2.5,1.5 L2.5,2.5 L1.5,2.5 L1.5,1.5 L2.5,1.5 Z M1.5,14.5 L1.5,13.5 L2.5,13.5 L2.5,14.5 L1.5,14.5 Z M12,13.5 L4,13.5 L4,12 L2.5,12 L2.5,4 L4,4 L4,2.5 L12,2.5 L12,4 L13.5,4 L13.5,12 L12,12 L12,13.5 Z M13.5,14.5 L13.5,13.5 L14.5,13.5 L14.5,14.5 L13.5,14.5 Z M6.5,8.5 L6.499,10.5 L8,10.5 L6,12.5 L4,10.5 L5.499,10.5 L5.5,8.5 L6.5,8.5 Z M10.5,4 L12.5,6 L10.5,8 L10.499,6.501 L8.5,6.5 L8.5,5.5 L10.5,5.501 L10.5,4 Z M7.5,4.5 L7.5,7.5 L4.5,7.5 L4.5,4.5 L7.5,4.5 Z M14.5,1.5 L14.5,2.5 L13.5,2.5 L13.5,1.5 L14.5,1.5 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

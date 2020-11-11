@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>14</title>
+    <defs>
+        <polygon id="path-1" points="0 0 16 0 16 16 0 16"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-231.000000, -170.000000)">
+            <g id="14" transform="translate(231.000000, 170.000000)">
+                <g id="Group">
+                    <g id="Shape">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <polygon fill="#FFFFFF" mask="url(#mask-2)" points="4.69230769 0 4.69230769 2.46153846 8.38461538 2.46153846 4.69230769 13.5384615 1 13.5384615 1 16 10.8461538 16 10.8461538 13.5384615 7.15384615 13.5384615 10.8461538 2.46153846 14.5384615 2.46153846 14.5384615 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

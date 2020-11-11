@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "k8s_master",
+      "type": "java.lang.String",
+      "description": "Description for k8s_master."
+    }
+  ] }

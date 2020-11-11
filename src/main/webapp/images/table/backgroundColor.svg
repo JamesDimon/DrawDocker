@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>11</title>
+    <defs>
+        <polygon id="path-1" points="0 0 16 0 16 16 0 16"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-195.000000, -170.000000)">
+            <g id="编组-3" transform="translate(195.000000, 134.000000)">
+                <g id="11" transform="translate(0.000000, 36.000000)">
+                    <g id="Shape">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <g id="ic_format_color_fill_24px" mask="url(#mask-2)" fill="#FFFFFF">
+                            <g id="Group">
+                                <path d="M0,9.19152 L5.162188,1.819152 L4.3430359,1.2455756 L4.9166123,0.4264236 L13.108133,6.162188 L12.53456,6.98134 L11.715404,6.407764 L6.553216,13.780132 Z M3.571605,5.834187 L10.896252,5.834187 L5.981340,2.392728Z" id="Shape"></path>
+                                <path d="M3.527138 4.154245 L3.404350 3.457881 L2.585198 2.884305 L2.871986 2.474729 L3.691138 3.048305 L4.387503 2.925517 L5.206655 3.499094 L5.329442 4.195458 L6.148595 4.769034 L5.861806 5.178610 L5.042654 4.605034 L4.346290 4.727822 Z" id="形状结合" fill-rule="nonzero"></path>
+                                <path d="M13.4852814,9.5 L13.485,12 L14.9852814,12 L13,15 L11,12 L12.485,12 L12.4852814,9.5 L13.4852814,9.5 Z" id="形状结合" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

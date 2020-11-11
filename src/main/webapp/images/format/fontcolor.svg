@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>7</title>
+    <defs>
+        <polygon id="path-1" points="0 0 16 0 16 16 0 16"></polygon>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-159.000000, -206.000000)">
+            <g id="编组-4" transform="translate(159.000000, 134.000000)">
+                <g id="7" transform="translate(0.000000, 72.000000)">
+                    <g id="Shape">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="蒙版"></g>
+                        <path d="M2.936,15.708 L4.608,11.308 L11.824,11.308 L13.496,15.708 L15.454,15.708 L9.272,0 L7.182,0 L1,15.708 L2.936,15.708 Z M11.252,9.79 L5.18,9.79 L8.194,1.936 L8.282,1.936 L11.252,9.79 Z" id="A" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

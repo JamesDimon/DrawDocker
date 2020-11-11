@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="18" height="18"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01" transform="translate(-465.000000, -197.000000)">
+            <g id="4" transform="translate(465.000000, 197.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <g id="编组" mask="url(#mask-2)">
+                    <g transform="translate(12.000000, 3.000000) rotate(-270.000000) translate(-12.000000, -3.000000) translate(9.000000, -3.000000)">
+                        <path d="M1,6 L5,6 L5,1.42108547e-14 L6,1.42108547e-14 L6,7 L3.5,7 L3.5,8.499 L6,8.5 L3.01471863,11.5 L0.0147186258,8.5 L2.5,8.499 L2.5,7 L-2.66453526e-15,7 L-2.66453526e-15,1.42108547e-14 L1,1.42108547e-14 L1,6 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <rect id="矩形" fill="#A8C3F8" fill-rule="evenodd" x="1" y="0" width="4" height="6"></rect>
+                    </g>
+                </g>
+                <g id="编组-48" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="nonzero">
+                    <g transform="translate(4.000000, 12.000000) rotate(-270.000000) translate(-4.000000, -12.000000) translate(-2.000000, 8.000000)" id="形状结合">
+                        <path d="M5,8 L5,1 L1,1 L1,8 L0,8 L0,0 L12,0 L12,8 L11,8 L11,1 L7,1 L7,8 L5,8 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
