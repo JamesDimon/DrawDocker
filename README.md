@@ -1,4 +1,4 @@
-#DrawDocker
+# DrawDocker
 
 ![](https://img.shields.io/badge/bitnami应用商店-DrawDocker-blue.svg)
 
@@ -6,15 +6,15 @@
 
 ## 英文名：DrawDocker  中文名：神笔马良
 
-##关于
+## 关于
 DrawDocker可以通过图形界面，在k8s集群环境内进行helm应用的安装和删除并输出设计视图。
 
-##版本
+## 版本
 v1.0
 
-##安装
+## 安装
 DrawDocker提供下面两种安装方式：
-###普通安装
+### 普通安装
 
  **运行环境**
  > - java 14.0.2
@@ -34,7 +34,7 @@ git clone https://github.com/JamesDimon/DrawDocker
 * 进入项目目录，执行`mvn package`命令进行打包;
 * 进入\target目录，执行`java -jar DrawDocker.war`运行项目。或直接用IDEA运行项目。
 
-###docker版
+### docker版
 从DockerHub下拉镜像
 ```
 docker pull drawdocker/drawdocker:latest
@@ -54,7 +54,7 @@ sed -i 's/{ORIGINAL_CONTENT}/{NEW_CONTENT}/g' kubeappsPalette.json
 exit
 ```
 
-##功能
+## 功能
 在已安装helm的k8s集群环境内，通过DrawDocker图形界面，选择代表某个chart的图形，可以进行对此chart安装一个release的操作。安装成功后，返回一些关于release的信息，并可以进行后续的删除release操作。具体的：
 * kubeapps应用组件
 
@@ -75,25 +75,25 @@ exit
 
   点击菜单-文件-发布-链接，可将画布中的设计图形发布为链接，发布后的图形保留原有图形的所有属性。菜单-文件-保存/导出为可将画布中图形保存为文件，具有类似效果。
 
-##操作手册
+## 操作手册
 
 [操作手册](https://github.com/JamesDimon/DrawDocker/blob/main/OperationManual.md)
 
-##相关
+## 相关
 关于[kubernetes](https://github.com/kubernetes/kubernetes/)，关于[helm](https://github.com/helm/helm/)，关于[drawio](https://github.com/jgraph/drawio/)。
 
-##交流与反馈
+## 交流与反馈
 微信交流群：DrawDocker开源维护群
 
 ![](https://github.com/JamesDimon/DrawDocker/blob/main/img/weixin.jpg)
 
 [@DimonJms](https://github.com/JamesDimon) 邮箱：zhaimeng@dcits.com
-##更新日志
+## 更新日志
 
-##贡献
-###维护者
+## 贡献
+### 维护者
 [@DimonJms](https://github.com/JamesDimon)
-###贡献代码
+### 贡献代码
 我们非常欢迎您为DrawDocker贡献代码或者提供使用建议，期待您的加入！提一个[Issue](https://github.com/JamesDimon/DrawDocker/issues/new)或者提交一个[Pull Request](https://github.com/JamesDimon/DrawDocker/pulls)。
 
 可能改进的地方：
@@ -104,5 +104,5 @@ exit
 * 可能提供对现有的release进行查询，删除，修改等功能。
 * 可能提供一些k8s的功能。
 
-##使用许可
+## 使用许可
 [Apache License v2.0 PublicTechR&D DCIE Digitalchina](https://github.com/JamesDimon/DrawDocker/blob/main/LICENSE)
