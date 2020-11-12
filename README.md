@@ -85,7 +85,7 @@ exit
 ## 交流与反馈
 微信交流群：DrawDocker开源维护群
 
-![weixin](https://github.com/JamesDimon/DrawDocker/blob/main/img/weixin.jpg)
+![weixin](http://i1.fuimg.com/729603/8731944048ff5aee.jpg)
 
 [@DimonJms](https://github.com/JamesDimon) 邮箱：zhaimeng@dcits.com
 ## 更新日志
