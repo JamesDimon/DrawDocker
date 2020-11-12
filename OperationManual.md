@@ -1,54 +1,54 @@
 # DrawDocker操作手册
 
 ## Kubeapps应用组件
-![1](https://github.com/JamesDimon/DrawDocker/blob/main/img/1.png)
+![1](http://i1.fuimg.com/729603/d354557a615c911a.png)
 
 每个图形代表helm仓库中的一个应用，点击后会在画布中生成一个对应的图形，可以进行后续操作。
 
-![2](https://github.com/JamesDimon/DrawDocker/blob/main/img/2.png)
+![2](http://i1.fuimg.com/729603/d6a511942f5b18ce.png)
 
-![3](https://github.com/JamesDimon/DrawDocker/blob/main/img/3.png)
+![3](http://i1.fuimg.com/729603/813df94e75ec6ea1.png)
 
 生成的图形，具有应用名称、安装状态、chart名称属性，如果完成安装操作会显示release名称和外部链接属性。
 
 ## 应用安装/删除
 
-![4](https://github.com/JamesDimon/DrawDocker/blob/main/img/4.png)
+![4](http://i1.fuimg.com/729603/52ad059491552b7a.png)
 
-![5](https://github.com/JamesDimon/DrawDocker/blob/main/img/5.png)
+![5](http://i1.fuimg.com/729603/d7354a3b93f06eeb.png)
 
 选中一个应用图形，在安装参数栏提供安装按钮，点击将在k8s集群内安装此chart的一个实例，相当于`helm install`命令。安装成功后返回release名称以及外部地址，并提供删除按钮。
 
-![6](https://github.com/JamesDimon/DrawDocker/blob/main/img/6.png)
+![6](http://i1.fuimg.com/729603/d23f202640f45c8b.png)
 
-![7](https://github.com/JamesDimon/DrawDocker/blob/main/img/7.png)
+![7](http://i1.fuimg.com/729603/7f757a5db3baf5c1.png)
 
 选中多个应用图形，在安装参数栏提供安装按钮和删除按钮，点击将对选中图形中可执行对应操作的应用在k8s集群内安装或删除。如果选中带有箭头的图形进行安装，将以箭头尾部的应用较先、箭头头部应用较后的顺序依次安装应用。对无效图形报错。
 
-![8](https://github.com/JamesDimon/DrawDocker/blob/main/img/8.png)
+![8](http://i1.fuimg.com/729603/58971c71baeef523.png)
 
-![9](https://github.com/JamesDimon/DrawDocker/blob/main/img/9.png)
+![9](http://i1.fuimg.com/729603/64921083a3e85921.png)
 
 选中一个或多个已经安装的应用图形，在安装参数栏提供删除按钮，点击将在k8s集群内删除安装的实例，相当于`helm delete --purge`命令。
 
 ## 自定义应用组件
 
-![10](https://github.com/JamesDimon/DrawDocker/blob/main/img/10.png)
+![10](http://i1.fuimg.com/729603/813e72e8390fab9d.png)
 
-![11](https://github.com/JamesDimon/DrawDocker/blob/main/img/11.png)
+![11](http://i1.fuimg.com/729603/6b1d43afe2f84bce.png)
 
-![12](https://github.com/JamesDimon/DrawDocker/blob/main/img/12.png)
+![12](http://i1.fuimg.com/729603/1b6fd0760b323967.png)
 
 点击自定义应用，输入应用chart名称和chart地址，可以生成自定义组件。自定义组件和自带组件一样，可以提供安装和删除等功能。
 
 ## 发布和保存
 
-![13](https://github.com/JamesDimon/DrawDocker/blob/main/img/13.png)
+![13](http://i1.fuimg.com/729603/6064e8c1845570a8.png)
 
-![14](https://github.com/JamesDimon/DrawDocker/blob/main/img/14.png)
+![14](http://i1.fuimg.com/729603/ebc13495106a9c44.png)
 
 点击菜单-文件-发布-链接，可将画布中的设计图形发布为链接，发布后的图形保留原有图形的所有属性。菜单-文件-保存/导出为可将画布中图形保存为文件，具有类似效果。
 
 ## 功能演示
 
-![功能演示](https://github.com/JamesDimon/DrawDocker/blob/main/img/1.gif)
+![功能演示](http://i1.fuimg.com/729603/2e6d882fb49e3800.gif)
