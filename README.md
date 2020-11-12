@@ -105,4 +105,4 @@ exit
 * 可能提供一些k8s的功能。
 
 ## 使用许可
-[Apache License v2.0 PublicTechR&D DCIE Digitalchina](https://github.com/JamesDimon/DrawDocker/blob/main/LICENSE)
+[Apache License v2.0 PublicTechR&D DCIE DigitalChina](https://github.com/JamesDimon/DrawDocker/blob/main/LICENSE)
