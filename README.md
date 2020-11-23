@@ -86,6 +86,7 @@ exit
 微信交流群：DrawDocker开源维护群
 
 联系我们，备注GitHub账号和DrawDocker，受邀请加入微信交流群。
+
 [@DimonJms](https://github.com/JamesDimon) 邮箱：zhaimeng@dcits.com
 ## 更新日志
 
